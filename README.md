@@ -1,0 +1,3 @@
+subdomain enumeration via certificate monitoring ...
+
+no gibberish output simple neat and clean script written in bash and python to enumerate the subdomain
